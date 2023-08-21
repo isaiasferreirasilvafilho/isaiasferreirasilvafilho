@@ -1,8 +1,9 @@
 <div align="center">
-  <h1><b>Isaias Ferreira Da Silva Filho</b></h1><br>
+  <h1><b>Isaias Ferreira Da Silva Filho</b></h1>
   <a href="isaiasferreirasilvafilho@gmail.com">isaiasferreirasilvafilho@gmail.com</a> - <a href="www.linkedin.com/in/isaiasferreirasilvafilho">www.linkedin.com/in/isaiasferreirasilvafilho</a><br>
   R. Novo Horizonte - Lagoa Azul, Natal - RN | 84 9 9173 - 7107
 </div>
+
 
 ## Experiência Profissional
 ### Assistente de TI
